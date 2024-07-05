@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/MOHAMMEDIZHAN/Weather-web-app-using-HTML-CSS-and-JS.git
+    git clone [https://github.com/MOHAMMEDIZHAN/Weather-web-app-using-HTML-CSS-and-JS.git](https://github.com/MOHAMMEDIZHAN/Weather-web-app-usinig-HTML-CSS-and-JS)
     ```
 2. Navigate to the project directory:
     ```bash
